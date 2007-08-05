@@ -1,4 +1,4 @@
-Bundle-SafeBrowsing version 1.00
+Bundle-SafeBrowsing version 1.01
 ================================
 
 INSTALLATION
@@ -20,10 +20,8 @@ Net::Google::SafeBrowsing::UpdateRequest
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2007 by Daniel Born
+Copyright (C) 2007 by Daniel Born <danborn@cpan.org>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.6 or,
 at your option, any later version of Perl 5 you may have available.
-
-
